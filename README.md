@@ -31,7 +31,7 @@ A modern and interactive Expense Tracker Dashboard built with React. This applic
 
 ---
 
-## 📸 Preview
+## 📸  Preview
 
 
 
