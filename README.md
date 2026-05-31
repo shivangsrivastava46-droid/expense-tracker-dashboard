@@ -33,11 +33,10 @@ A modern and interactive Expense Tracker Dashboard built with React. This applic
 
 ## 📸 Preview
 
-> Add a screenshot of your dashboard here.
 
-```md
-![Expense Tracker Dashboard](./public/screenshot.png)
-```
+
+![Expense Tracker Dashboard](screenshot.png)
+
 
 ---
 
